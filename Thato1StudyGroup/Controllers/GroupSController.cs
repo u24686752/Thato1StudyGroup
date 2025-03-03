@@ -17,7 +17,7 @@ namespace Thato1StudyGroup.Controllers
             people.Add(new Models.MyStudy { FirstName = "Karabo", LastName = "Kaphwiyo", Email = "u24651797@tuks.co.za", StudentNumber = "24651797" });
             people.Add(new Models.MyStudy { FirstName = "Dumo", LastName = "Ngobese", Email = "u24742661@tuks.co.za", StudentNumber = "24742661" });
             people.Add(new Models.MyStudy { FirstName = "Langa", LastName = "Manzini", Email = "u24752038@tuks.co.za", StudentNumber = "24752038" });
-            people.Add(new Models.MyStudy { FirstName = "Gontse", LastName = "Shabangu", Email = "u24698505@tuks.co.za", StudentNumber = "24698505" });
+            people.Add(new Models.MyStudy { FirstName = "Gontse", LastName = "Khoza", Email = "u24698505@tuks.co.za", StudentNumber = "24698505" });
 
             return View(people);
         }
